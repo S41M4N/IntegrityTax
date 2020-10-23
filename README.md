@@ -2,6 +2,8 @@
 
 The “Mobile Tax” App allows taxpayers & tax professional to prepare taxes and submit their tax documents to you from anywhere, without ever meeting with the tax professional. Take pictures of W2s and other docs and sent through the App, we'll prepare the return and send it back to you to sign digitally. This is a complete app that can interact from start to finish with your tax professionals.
 
+[Download](https://play.google.com/store/apps/details?id=com.radyanit.mobiletax)
+
 ## Screenshots
 <p style="float:left">
 <img src="https://github.com/S41M4N/IntegrityTax/raw/main/screenshots/1.png" width="30%">
@@ -32,8 +34,8 @@ The “Mobile Tax” App allows taxpayers & tax professional to prepare taxes an
   </p>
 
 ## About
-This project is developed by Salman under Radyan-IT Inc.
+Android version of this project is developed by Salman under Radyan-IT Inc.
 
 Copyright &copy; 2018, Integrity Tax Services Inc.
 
-[Download](https://play.google.com/store/apps/details?id=com.radyanit.mobiletax)
+
